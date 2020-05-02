@@ -1,1 +1,2 @@
-"Valve Hole"= 1.5
+"Valve Hole" = 1.5
+"Duck" = 75
